@@ -28,5 +28,5 @@ You can view the live site [here](https://blob-generator-by-ab.netlify.app/).
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/blob-generator.git
+   git clone https://github.com/abdurrahmanabid/blob-generator.git
    ```
